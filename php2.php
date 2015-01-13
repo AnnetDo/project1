@@ -1,5 +1,6 @@
 <?php
 
-echo "chucknorris ahaha bugaga";
+echo "chucknorris ahaha bugaga
+lalala";
 
 ?>
